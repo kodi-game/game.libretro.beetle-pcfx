@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.beetle-pcfx)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(beetle-pcfx
                     BUILD_IN_SOURCE 1)
 
 set(BEETLEPCFX_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/beetle-pcfx/src/beetle-pcfx/mednafen_pcfx_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                             game.libretro.beetle-pcfx${CMAKE_SHARED_LIBRARY_SUFFIX} beetle-pcfx)
+                             ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.beetle-pcfx BEETLEPCFX DEPLIBS)
-add_dependencies(game.libretro.beetle-pcfx beetle-pcfx)
-
-include(CPack)
+build_addon(${PROJECT_NAME} BEETLEPCFX DEPLIBS)
+add_dependencies(${PROJECT_NAME} beetle-pcfx)
