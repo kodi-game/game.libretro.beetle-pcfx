@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">PC-FX (Mednafen PC-FX) v0.9.33.3</summary>
+		<summary lang="en">PC-FX (Mednafen PC-FX) v0.9.33.3 53cf5d0</summary>
 		<description>Supported files: .cue, .ccd, .toc</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
