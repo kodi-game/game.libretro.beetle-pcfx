@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pcfx"
-		name="PC-FX (Mednafen PC-FX)"
+		name="PC-FX (Beetle PC-FX)"
 		version="0.9.33"
 		provider-name="Libretro">
 	<requires>
@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">PC-FX (Mednafen PC-FX) v0.9.33.3</summary>
+		<summary lang="en">PC-FX (Beetle PC-FX) v0.9.33.3</summary>
 		<description>Supported files: .cue, .ccd, .toc</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
