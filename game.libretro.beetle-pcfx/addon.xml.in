@@ -9,7 +9,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>PCXFX</platforms>
-		<extensions>cue|ccd|toc</extensions>
+		<extensions>cue|ccd|toc|chd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
@@ -17,7 +17,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">PC-FX (Beetle PC-FX) v0.9.33.3</summary>
-		<description>Supported files: .cue, .ccd, .toc</description>
+		<description>Supported files: .cue, .ccd, .toc, .chd</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
