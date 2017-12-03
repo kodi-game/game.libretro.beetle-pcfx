@@ -37,18 +37,22 @@ msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30005"
-msgid "No Sprite Limit (Restart)"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Chroma channel bilinear interpolation  (Restart)"
+msgid "No Sprite Limit (Restart)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Sound Quality (Restart)"
+msgid "Chroma channel bilinear interpolation  (Restart)"
 msgstr ""
 
 msgctxt "#30008"
+msgid "Sound Quality (Restart)"
+msgstr ""
+
+msgctxt "#30009"
 msgid "Suppress Channel Reset Clicks (Restart)"
 msgstr ""
 
