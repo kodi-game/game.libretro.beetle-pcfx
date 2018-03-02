@@ -16,8 +16,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">NEC - PC-FX (Beetle PC-FX) v0.9.36.5</summary>
-		<description>Supported files: .cue, .ccd, .toc, .chd</description>
+		<summary lang="en_GB">NEC - PC-FX (Beetle PC-FX) v0.9.36.5</summary>
+		<description lang="en_GB">Supported files: .cue, .ccd, .toc, .chd</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
