@@ -20,5 +20,6 @@
 		<description lang="en_GB">Supported files: .cue, .ccd, .toc, .chd</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.beetle-pcfx</source>
 	</extension>
 </addon>
