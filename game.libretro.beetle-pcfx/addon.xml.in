@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pcfx"
 		name="NEC - PC-FX (Beetle PC-FX)"
-		version="0.9.36.6"
-		provider-name="Libretro">
+		version="0.9.36.7"
+		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.pcfx" version="1.0.0"/>
