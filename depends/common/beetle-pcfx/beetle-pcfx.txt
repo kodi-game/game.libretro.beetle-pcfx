@@ -1,1 +1,1 @@
-beetle-pcfx https://github.com/libretro/beetle-pcfx-libretro/archive/294ecfc09a8dc4d1a20b83ad518283e24cbdb676.zip
+beetle-pcfx https://github.com/libretro/beetle-pcfx-libretro/archive/a552d9cd4c2174c1465dfd1c99f387df07465f1b.zip
