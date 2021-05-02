@@ -21,37 +21,41 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Emulate Buggy Codec (Restart)"
+msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "High Dotclock Width (Restart)"
+msgid "Emulate Buggy Codec (Restart)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Initial scanline"
+msgid "High Dotclock Width (Restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Last scanline"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Mouse Sensitivity"
+msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30006"
-msgid "No Sprite Limit (Restart)"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Chroma channel bilinear interpolation  (Restart)"
+msgid "No Sprite Limit (Restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Sound Quality (Restart)"
+msgid "Chroma channel bilinear interpolation  (Restart)"
 msgstr ""
 
 msgctxt "#30009"
+msgid "Sound Quality (Restart)"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Suppress Channel Reset Clicks (Restart)"
 msgstr ""
