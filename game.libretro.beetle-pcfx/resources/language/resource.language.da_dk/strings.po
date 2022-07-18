@@ -30,41 +30,77 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "CD Image Cache (Restart)"
-msgstr "Cache for CD-image (genstart)"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "High Dotclock Width (Restart)"
-msgstr "Høj Dotclock bredde (genstart)"
+msgid "High Dotclock Width (Restart Required)"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Suppress Channel Reset Clicks (Restart)"
-msgstr "Undertryk klik for nulstilling af kanal (genstart)"
+msgid "Suppress Channel Reset Clicks (Restart Required)"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Emulate Buggy Codec (Restart)"
-msgstr "Emuler buggy codec (genstart)"
+msgid "Emulate Buggy Codec (Restart Required)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Sound Quality (Restart)"
-msgstr "Lydkvalitet (genstart)"
+msgid "Sound Quality (Restart Required)"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Chroma channel bilinear interpolation  (Restart)"
-msgstr "Chroma-kanal bilinær interpolation (genstart)"
+msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
+msgstr ""
 
 msgctxt "#30007"
-msgid "No Sprite Limit (Restart)"
-msgstr "Ingen begrænsning af sprite (genstart)"
+msgid "No Sprite Limit (Restart Required)"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Initial scanline"
-msgstr "Første scanlinje"
+msgid "Initial Scanline"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Last scanline"
-msgstr "Sidste scanlinje"
+msgid "Last Scanline"
+msgstr ""
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
 msgstr "Musens følsomhed"
+
+#~ msgctxt "#30001"
+#~ msgid "CD Image Cache (Restart)"
+#~ msgstr "Cache for CD-image (genstart)"
+
+#~ msgctxt "#30002"
+#~ msgid "High Dotclock Width (Restart)"
+#~ msgstr "Høj Dotclock bredde (genstart)"
+
+#~ msgctxt "#30003"
+#~ msgid "Suppress Channel Reset Clicks (Restart)"
+#~ msgstr "Undertryk klik for nulstilling af kanal (genstart)"
+
+#~ msgctxt "#30004"
+#~ msgid "Emulate Buggy Codec (Restart)"
+#~ msgstr "Emuler buggy codec (genstart)"
+
+#~ msgctxt "#30005"
+#~ msgid "Sound Quality (Restart)"
+#~ msgstr "Lydkvalitet (genstart)"
+
+#~ msgctxt "#30006"
+#~ msgid "Chroma channel bilinear interpolation  (Restart)"
+#~ msgstr "Chroma-kanal bilinær interpolation (genstart)"
+
+#~ msgctxt "#30007"
+#~ msgid "No Sprite Limit (Restart)"
+#~ msgstr "Ingen begrænsning af sprite (genstart)"
+
+#~ msgctxt "#30008"
+#~ msgid "Initial scanline"
+#~ msgstr "Første scanlinje"
+
+#~ msgctxt "#30009"
+#~ msgid "Last scanline"
+#~ msgstr "Sidste scanlinje"

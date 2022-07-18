@@ -30,41 +30,77 @@ msgid "Settings"
 msgstr "设置"
 
 msgctxt "#30001"
-msgid "CD Image Cache (Restart)"
-msgstr "CD 映像缓存（重新启动）"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "High Dotclock Width (Restart)"
-msgstr "高点时钟宽度（重新启动）"
+msgid "High Dotclock Width (Restart Required)"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Suppress Channel Reset Clicks (Restart)"
-msgstr "抑制通道重置点击（重新启动）"
+msgid "Suppress Channel Reset Clicks (Restart Required)"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Emulate Buggy Codec (Restart)"
-msgstr "模拟错误编解码器（重新启动）"
+msgid "Emulate Buggy Codec (Restart Required)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Sound Quality (Restart)"
-msgstr "音质（重新启动）"
+msgid "Sound Quality (Restart Required)"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Chroma channel bilinear interpolation  (Restart)"
-msgstr "色度通道双线性插值（重新启动）"
+msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
+msgstr ""
 
 msgctxt "#30007"
-msgid "No Sprite Limit (Restart)"
-msgstr "无 Sprite 限制（重新启动）"
+msgid "No Sprite Limit (Restart Required)"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Initial scanline"
-msgstr "初始扫描线"
+msgid "Initial Scanline"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Last scanline"
-msgstr "最末扫描线"
+msgid "Last Scanline"
+msgstr ""
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
 msgstr "鼠标灵敏度"
+
+#~ msgctxt "#30001"
+#~ msgid "CD Image Cache (Restart)"
+#~ msgstr "CD 映像缓存（重新启动）"
+
+#~ msgctxt "#30002"
+#~ msgid "High Dotclock Width (Restart)"
+#~ msgstr "高点时钟宽度（重新启动）"
+
+#~ msgctxt "#30003"
+#~ msgid "Suppress Channel Reset Clicks (Restart)"
+#~ msgstr "抑制通道重置点击（重新启动）"
+
+#~ msgctxt "#30004"
+#~ msgid "Emulate Buggy Codec (Restart)"
+#~ msgstr "模拟错误编解码器（重新启动）"
+
+#~ msgctxt "#30005"
+#~ msgid "Sound Quality (Restart)"
+#~ msgstr "音质（重新启动）"
+
+#~ msgctxt "#30006"
+#~ msgid "Chroma channel bilinear interpolation  (Restart)"
+#~ msgstr "色度通道双线性插值（重新启动）"
+
+#~ msgctxt "#30007"
+#~ msgid "No Sprite Limit (Restart)"
+#~ msgstr "无 Sprite 限制（重新启动）"
+
+#~ msgctxt "#30008"
+#~ msgid "Initial scanline"
+#~ msgstr "初始扫描线"
+
+#~ msgctxt "#30009"
+#~ msgid "Last scanline"
+#~ msgstr "最末扫描线"

@@ -30,39 +30,39 @@ msgid "Settings"
 msgstr "Axustes"
 
 msgctxt "#30001"
-msgid "CD Image Cache (Restart)"
+msgid "CD Image Cache (Restart Required)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "High Dotclock Width (Restart)"
+msgid "High Dotclock Width (Restart Required)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Suppress Channel Reset Clicks (Restart)"
+msgid "Suppress Channel Reset Clicks (Restart Required)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Emulate Buggy Codec (Restart)"
+msgid "Emulate Buggy Codec (Restart Required)"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Sound Quality (Restart)"
+msgid "Sound Quality (Restart Required)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Chroma channel bilinear interpolation  (Restart)"
+msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "No Sprite Limit (Restart)"
+msgid "No Sprite Limit (Restart Required)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Initial scanline"
+msgid "Initial Scanline"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Last scanline"
+msgid "Last Scanline"
 msgstr ""
 
 msgctxt "#30010"
