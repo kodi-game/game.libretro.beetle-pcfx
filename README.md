@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-pcfx/resources/icon.png)
+![NEC - PC-FX (Beetle PC-FX) icon](game.libretro.beetle-pcfx/resources/icon.png)
 
 ### Fanart
 
