@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.14.1\n"
 
 msgctxt "Addon Summary"
-msgid "NEC - PC-FX (Beetle PC-FX) v0.9.36.5"
+msgid "NEC - PC-FX (Beetle PC-FX)"
 msgstr ""
 
 msgctxt "Addon Description"

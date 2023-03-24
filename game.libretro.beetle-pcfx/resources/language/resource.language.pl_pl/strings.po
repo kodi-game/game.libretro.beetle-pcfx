@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 msgctxt "Addon Summary"
-msgid "NEC - PC-FX (Beetle PC-FX) v0.9.36.5"
+msgid "NEC - PC-FX (Beetle PC-FX)"
 msgstr ""
 
 msgctxt "Addon Description"
