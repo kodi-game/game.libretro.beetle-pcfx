@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.beetle-pcfx.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.beetle-pcfx)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.beetle-pcfx?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-beetle-pcfx)
-
 # NEC - PC-FX (Beetle PC-FX)
 
 ### Description
