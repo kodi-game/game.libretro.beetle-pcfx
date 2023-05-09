@@ -23,6 +23,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">NEC - PC-FX (Beetle PC-FX)</summary>
 		<summary lang="en_GB">NEC - PC-FX (Beetle PC-FX)</summary>
 		<summary lang="es_ES">NEC - PC-FX (Beetle PC-FX)</summary>
 		<description lang="da_DK">Beetle PC-FX er en fork af Mednafen PC-FX videospilsystememulator til NEC PC-FX.</description>
