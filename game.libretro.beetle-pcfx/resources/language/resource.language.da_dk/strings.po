@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle PC-FX is a port of the Mednafen PC-FX video game system emulator for the NEC PC-FX."
 msgstr "Beetle PC-FX er en fork af Mednafen PC-FX videospilsystememulator til NEC PC-FX."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
 msgstr "CD billedcache (genstart påkrævet)"
@@ -68,6 +64,10 @@ msgstr "Sidste scanlinje"
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
 msgstr "Musens følsomhed"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30001"
 #~ msgid "CD Image Cache (Restart)"
