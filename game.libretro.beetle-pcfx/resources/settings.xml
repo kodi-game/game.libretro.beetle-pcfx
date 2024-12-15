@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="pcfx_cdimagecache" values="disabled|enabled" default="disabled"/>
 		<setting label="30002" type="select" id="pcfx_high_dotclock_width" values="1024|256|341" default="1024"/>
 		<setting label="30003" type="select" id="pcfx_suppress_channel_reset_clicks" values="enabled|disabled" default="enabled"/>
