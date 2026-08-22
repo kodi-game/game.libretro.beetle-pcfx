@@ -1,15 +1,208 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-	<category label="128">
-		<setting label="30001" type="select" id="pcfx_cdimagecache" values="disabled|enabled" default="disabled"/>
-		<setting label="30002" type="select" id="pcfx_high_dotclock_width" values="1024|256|341" default="1024"/>
-		<setting label="30003" type="select" id="pcfx_suppress_channel_reset_clicks" values="enabled|disabled" default="enabled"/>
-		<setting label="30004" type="select" id="pcfx_emulate_buggy_codec" values="disabled|enabled" default="disabled"/>
-		<setting label="30005" type="select" id="pcfx_resamp_quality" values="3|0|1|2|4|5" default="3"/>
-		<setting label="30006" type="select" id="pcfx_rainbow_chromaip" values="disabled|enabled" default="disabled"/>
-		<setting label="30007" type="select" id="pcfx_nospritelimit" values="disabled|enabled" default="disabled"/>
-		<setting label="30008" type="select" id="pcfx_initial_scanline" values="4|0|1|2|3|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40" default="4"/>
-		<setting label="30009" type="select" id="pcfx_last_scanline" values="235|208|209|210|211|212|213|214|215|216|217|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|236|237|238|239" default="235"/>
-		<setting label="30010" type="select" id="pcfx_mouse_sensitivity" values="1.25|1.00|1.50|1.75|2.00|2.25|2.50|2.75|3.00|3.25|3.50|3.75|4.00|4.25|4.50|4.75|5.00" default="1.25"/>
-	</category>
+<settings version="1">
+	<section id="game.libretro.beetle-pcfx">
+		<category id="general" label="128">
+			<group id="1">
+				<setting id="pcfx_cdimagecache" type="string" label="30001" help="30011">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_high_dotclock_width" type="string" label="30002" help="30012">
+					<level>0</level>
+					<default>1024</default>
+					<constraints>
+						<options>
+							<option>256</option>
+							<option>341</option>
+							<option>1024</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_suppress_channel_reset_clicks" type="string" label="30003" help="30013">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option>enabled</option>
+							<option>disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_emulate_buggy_codec" type="string" label="30004" help="30014">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_resamp_quality" type="string" label="30005" help="30015">
+					<level>0</level>
+					<default>3</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_rainbow_chromaip" type="string" label="30006" help="30016">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_nospritelimit" type="string" label="30007" help="30017">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_initial_scanline" type="string" label="30008" help="30018">
+					<level>0</level>
+					<default>4</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option label="30019">4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+							<option>10</option>
+							<option>11</option>
+							<option>12</option>
+							<option>13</option>
+							<option>14</option>
+							<option>15</option>
+							<option>16</option>
+							<option>17</option>
+							<option>18</option>
+							<option>19</option>
+							<option>20</option>
+							<option>21</option>
+							<option>22</option>
+							<option>23</option>
+							<option>24</option>
+							<option>25</option>
+							<option>26</option>
+							<option>27</option>
+							<option>28</option>
+							<option>29</option>
+							<option>30</option>
+							<option>31</option>
+							<option>32</option>
+							<option>33</option>
+							<option>34</option>
+							<option>35</option>
+							<option>36</option>
+							<option>37</option>
+							<option>38</option>
+							<option>39</option>
+							<option>40</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_last_scanline" type="string" label="30009" help="30020">
+					<level>0</level>
+					<default>235</default>
+					<constraints>
+						<options>
+							<option>208</option>
+							<option>209</option>
+							<option>210</option>
+							<option>211</option>
+							<option>212</option>
+							<option>213</option>
+							<option>214</option>
+							<option>215</option>
+							<option>216</option>
+							<option>217</option>
+							<option>218</option>
+							<option>219</option>
+							<option>220</option>
+							<option>221</option>
+							<option>222</option>
+							<option>223</option>
+							<option>224</option>
+							<option>225</option>
+							<option>226</option>
+							<option>227</option>
+							<option>228</option>
+							<option>229</option>
+							<option>230</option>
+							<option>231</option>
+							<option>232</option>
+							<option>233</option>
+							<option>234</option>
+							<option label="30021">235</option>
+							<option>236</option>
+							<option>237</option>
+							<option>238</option>
+							<option>239</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="pcfx_mouse_sensitivity" type="string" label="30010" help="30022">
+					<level>0</level>
+					<default>1.25</default>
+					<constraints>
+						<options>
+							<option>1.00</option>
+							<option>1.25</option>
+							<option>1.50</option>
+							<option>1.75</option>
+							<option>2.00</option>
+							<option>2.25</option>
+							<option>2.50</option>
+							<option>2.75</option>
+							<option>3.00</option>
+							<option>3.25</option>
+							<option>3.50</option>
+							<option>3.75</option>
+							<option>4.00</option>
+							<option>4.25</option>
+							<option>4.50</option>
+							<option>4.75</option>
+							<option>5.00</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+	</section>
 </settings>
