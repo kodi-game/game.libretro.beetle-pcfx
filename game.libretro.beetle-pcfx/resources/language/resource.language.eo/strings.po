@@ -65,6 +65,54 @@ msgctxt "#30010"
 msgid "Mouse Sensitivity"
 msgstr ""
 
+msgctxt "#30011"
+msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
+msgstr ""
+
+msgctxt "#30012"
+msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
+msgstr ""
+
+msgctxt "#30013"
+msgid "Hack to suppress audio clicks caused by forced channel resets."
+msgstr ""
+
+msgctxt "#30014"
+msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
+msgstr ""
+
+msgctxt "#30015"
+msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
+msgstr ""
+
+msgctxt "#30016"
+msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
+msgstr ""
+
+msgctxt "#30017"
+msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
+msgstr ""
+
+msgctxt "#30018"
+msgid "First rendered scanline. Higher values will crop the top of the image."
+msgstr ""
+
+msgctxt "#30019"
+msgid "4 (Default)"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Last rendered scanline. Lower values will crop the bottom of the image."
+msgstr ""
+
+msgctxt "#30021"
+msgid "235 (Default)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Agordoj"
