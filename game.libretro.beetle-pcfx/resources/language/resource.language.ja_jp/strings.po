@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "CD イメージキャッシュ (再起動が必要)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "起動時に完全なイメージをメモリにロードします。起動時間が増す代わりにロード時間が短縮される可能性があります。"
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
@@ -99,7 +99,7 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (デフォルト)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (デフォルト)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."

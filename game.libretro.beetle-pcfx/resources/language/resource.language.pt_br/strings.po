@@ -27,47 +27,47 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Cache de imagens do CD (requer reinício)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr ""
+msgstr "Frequência de píxel horizontal veloz (requer reinicio)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr ""
+msgstr "Remover cliques de redefinições de canal (requer reinício)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr ""
+msgstr "Emular Codec defeituoso (requer reinício)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr ""
+msgstr "Qualidade do áudio (requer reinício)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr ""
+msgstr "Interpolação bilinear de canal cromático (requer reinício)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr ""
+msgstr "Sem limite de sprite (requer reinício)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Linha de verificação inicial"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Linha de verificação final"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Sensibilidade do mouse"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Carrega a imagem completa na memória na inicialização. Eventualmente, pode diminuir o tempo de carregamento ao custo de um tempo de inicialização maior."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
@@ -75,11 +75,11 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "Hack para remover cliques de áudio causados por redefinições de canal forçadas."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr ""
+msgstr "Hack que emula um codificador de ADPCM defeituoso usado por alguns jogos."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
@@ -87,31 +87,31 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr ""
+msgstr "Habilita interpolação bilinear no canal crómatico da saída RAINBOW YUV. Pode causar falhas gráficas em alguns jogos."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Remove o limite de hardware de 16 sprites por linha de verificação. ATENÇÃO: pode causar falhas gráficas em alguns jogos."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Primeira linha de verificação renderizada. Valores maiores cortarão a parte superior da imagem."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (padrão)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Última linha de verificação renderizada. Valores menores cortarão a parte inferior da imagem."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (padrão)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Configura a sensibilidade do dispositivo \"PCFX Mouse\". Valores maiores tornarão a movimentação do cursor do mouse mais rápida."
 
 msgctxt "#30023"
 msgid "0"

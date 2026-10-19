@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Кеш образу CD (потрібен перезапуск)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
@@ -43,7 +43,7 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr ""
+msgstr "Якість звуку (потрібен перезапуск)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
@@ -63,11 +63,11 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Чутливість миші"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Завантажувати повне зображення в пам'ять під час запуску. Може зменшувати час завантаження за рахунок збільшення часу запуску."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "Хак для придушення звукових клацань, спричинених примусовим скиданням каналів."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
@@ -99,7 +99,7 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (за замовчуванням)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (за замовчуванням)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."

@@ -27,91 +27,91 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "CD Kalıbı Önbelleği (Yeniden Başlatılmalı)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr ""
+msgstr "Yüksek Nokta Saat Genişliği (Yeniden Başlatılmalı)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr ""
+msgstr "Kanal Sıfırlama Tıklamalarını Bastır (Yeniden Başlatılmalı)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr ""
+msgstr "Buggy Çözücü Taklidi (Yeniden Başlatılmalı)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr ""
+msgstr "Ses Kalitesi (Yeniden Başlatılmalı)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr ""
+msgstr "Chroma Kanalı Doğrusal Ara Değer (Yeniden Başlatılmalı)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr ""
+msgstr "Hareket Sınırını Kaldır (Yeniden Başlatılmalı)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "İlk Tarama Çizgisi"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Son Tarama Çizgisi"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Fare Hassasiyeti"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Başlangıç sırasında bütün kalıbı hafızaya yükler. Başlangıç sürecini uzatmak pahasına oyundaki yüklenme sürelerini kısaltabilir."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr ""
+msgstr "7.16 MHz nokta saati kipi için taklit edilmiş genişlik. Daha düşük değerler daha hızlıdır, ancak bir dereceye kadar piksel bozulmasına neden olur."
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "Zorla kanal sıfırlamalarının neden olduğu ses tıklamalarını bastırmak için geliştirme."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr ""
+msgstr "Bazı oyunlarda ADPCM için kullanılan 'buggy ADPCM' kodlayıcısını taklit eden gelişitirici."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr ""
+msgstr "Daha yüksek değerler, artan hesaplama karmaşıklığı ve gecikmede tölere edilebilir artış pahasına daha iyi gürültü sinyali ve daha yüksek frekansların (parlaklık) daha iyi korunmasına karşılık gelir."
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr ""
+msgstr "RAINBOW YUV çıktısının renk kanalında çift doğrusal ara değeri etkinleştirin. Bazı oyunlarda grafik hatalarına neden olabilir."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Tarama çizgisi başına 16 hareket donanım sınırını kaldırır. UYARI: Bazı oyunlarda bozulmlara sebep olabilir."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "İlk işlenen tarama çizgisi. Yükseltilen değerler görüntünün üstünü kırpacaktır."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (Varsayılan)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Son işlenen tarama çizgisi. Düşürülen değerler görüntünün alt kısmını kırpacaktır."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (Varsayılan)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "'PCFX Fare'  cihaz türünün hassasiyetini yapılandırın. Daha yüksek değerler, fare imlecinin daha hızlı hareket etmesini sağlar."
 
 msgctxt "#30023"
 msgid "0"

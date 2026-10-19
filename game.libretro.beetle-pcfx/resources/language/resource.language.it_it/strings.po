@@ -27,91 +27,91 @@ msgstr "Beetle PC-FX è una porting dell'emulatore del sistema di videogiochi Me
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Cache immagine CD (riavvio richiesto)"
+msgstr "Cache Immagine CD (Riavvio Richiesto)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr "Larghezza dotclock elevata (riavvio richiesto)"
+msgstr "Alta Larghezza Dotclock (RiavvioRichiesto)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr "Elimina i clic di reimpostazione del canale (riavvio richiesto)"
+msgstr "Sopprimi I Clic Di Ripristino Dei Canali (Riavvio Richiesto)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr "Emula codec con bug (riavvio richiesto)"
+msgstr "Emula Codec Buggato (Riavvio Richiesto)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr "Qualità audio (riavvio richiesto)"
+msgstr "Qualità Del Suono (Riavvio Richiesto)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr "Interpolazione bilineare canale cromatico (riavvio richiesto)"
+msgstr "Interpolazione Bilineare Canale Croma (Riavvio Richiesto)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr "Nessun limite di sprite (riavvio richiesto)"
+msgstr "Nessun Limite Di Sprite (Riavvio Richiesto)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr "Scansione iniziale"
+msgstr "Scanline Iniziale"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr "Ultima scansione"
+msgstr "Ultima Scanline"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr "Sensibilità mouse"
+msgstr "Sensibilità Mouse"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Carica l'immagine completa in memoria all'avvio. Può potenzialmente diminuire i tempi di caricamento al costo di un aumento del tempo di avvio."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr ""
+msgstr "Larghezza emulata per la modalità dot-clock 7.16 MHz. Valori inferiori sono più veloci, ma causeranno un certo grado di distorsione dei pixel."
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "Hack per sopprimere clic audio causati da riavvio del canale forzato."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr ""
+msgstr "Hack che emula un codificatore ADPCM buggy utilizzato per l'ADPCM di alcuni giochi."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr ""
+msgstr "Valori più elevati corrispondono a un migliore rapporto segnale-rumore e una migliore conservazione delle frequenze più elevate ('luminosità'), a costo di una maggiore complessità computazionale e di un aumento trascurabile della latenza."
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr ""
+msgstr "Abilita l'interpolazione bilineare sul canale cromatico dell'uscita RAINBOW YUV. Può causare problemi grafici con alcuni giochi."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Rimuovere 16-sprites-per-scanline limite hardware. ATTENZIONE: Può causare problemi grafici su alcuni giochi."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Prima scanline renderizzata. Valori più alti ritaglieranno la parte superiore dell'immagine."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (Predefinito)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Ultima scanline renderizzata. I valori più bassi ritaglieranno la parte inferiore dell'immagine."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (Predefinito)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Configura la sensibilità del tipo di dispositivo 'PCFX Mouse'. Valori più alti renderanno il cursore del mouse più veloce."
 
 msgctxt "#30023"
 msgid "0"

@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Citlivosť myši"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
@@ -99,7 +99,7 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (predvolené)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (predvolené)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."

@@ -27,39 +27,39 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr "CD-Abbild-Cache (Neustart erfordelich)"
+msgstr "CD-Abbild-Cache (Neustart erforderlich)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr ""
+msgstr "Dotclock-Breite (Neustart erforderlich)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr ""
+msgstr "Klicks beim Zurücksetzen des Kanals unterdrücken (Neustart erforderlich)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr ""
+msgstr "Fehlerhaften Codec emulieren (Neustart erforderlich)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr ""
+msgstr "Klangqualität (Neustart erforderlich)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr ""
+msgstr "Bilineare Interpolation des Chromakanals (Neustart erforderlich)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr ""
+msgstr "Keine Sprite-Begrenzung (Neustart erforderlich)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr "Erste Abtastzeile"
+msgstr "Erste Scanline"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr "Letzte Abtastzeile"
+msgstr "Letzte Scanline"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
@@ -67,51 +67,51 @@ msgstr "Mausempfindlichkeit"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Das komplette Abbild beim Start in den Arbeitsspeicher laden. Kann die Ladezeiten auf Kosten einer längeren Startzeit verkürzen."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr ""
+msgstr "Emulierte Breite für den 7,16 MHz dot-clock-Modus. Niedrigere Werte sind schneller, verursachen aber eine gewisse Verzerrung der Pixel."
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "Hack zur Unterdrückung von Audioklicks, die durch erzwungene Kanalresets verursacht werden."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr ""
+msgstr "Hack, der einen fehlerhaften ADPCM-Encoder emuliert, der als ADPCM in einigen Spiele verwendet wird."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr ""
+msgstr "Höhere Werte entsprechen einem besseren Signal-Rausch-Verhältnis und einer besseren Erhaltung höherer Frequenzen ('Helligkeit'), auf Kosten einer erhöhten Rechenkomplexität und einer vernachlässigbaren Latenzsteigerung."
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr ""
+msgstr "Bilineare Interpolation auf dem Chromakanal der RAINBOW-YUV-Ausgabe aktivieren. Kann bei einigen Spielen grafische Glitches verursachen."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Die Hardware-Beschränkung von 16 Sprites pro Scanline entfernen. WARNUNG: Kann bei einigen Spielen zu Grafikfehlern führen."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Erste gerenderte Scanline. Höhere Werte schneiden den oberen Teil des Bildes ab."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (Standard)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Letzte gerenderte Scanline. Niedrigere Werte schneiden den unteren Teil des Bildes ab."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (Standard)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Die Empfindlichkeit des Gerätetyps „PCFX-Maus“ einstellen. Je höher der Wert, desto schneller bewegt sich der Mauszeiger."
 
 msgctxt "#30023"
 msgid "0"

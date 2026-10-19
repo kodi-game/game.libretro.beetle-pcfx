@@ -27,19 +27,19 @@ msgstr "Beetle PC-FX — это порт эмулятора видеоигров
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Кэш образов CD (требуется перезапуск)"
+msgstr "Кэшировать образ CD (требуется перезапуск)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr "Ширина высокой тактовой частоты точки (требуется перезапуск)"
+msgstr "Ширина высокой частоты пикселизации (перезапуск)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr "Подавлять щелчки сброса канала (требуется перезапуск)"
+msgstr "Подавлять щелчки при сбросах канала (требуется перезапуск)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr "Эмулировать проблемный кодек (требуется перезапуск)"
+msgstr "Эмулировать ошибки кодека (требуется перезапуск)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
@@ -47,7 +47,7 @@ msgstr "Качество звука (требуется перезапуск)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr "Билинейная интерполяция цветового канала (требуется перезапуск)"
+msgstr "Билинейная интерполяция цветности (требуется перезапуск)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
@@ -55,11 +55,11 @@ msgstr "Без ограничения спрайтов (требуется пе�
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr "Начальная строка развёртки"
+msgstr "Первая строка развёртки"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr "Конечная строка развёртки"
+msgstr "Последняя строка развёртки"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
@@ -67,35 +67,35 @@ msgstr "Чувствительность мыши"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr "Загружать полный образ в память при запуске. Может сократить время загрузки за счёт увеличения времени запуска."
+msgstr "При запуске загружать полный образ диска в память. Может снижать время загрузок, но увеличивает время запуска."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr "Эмулируемая ширина для режима тактовой частоты точек 7,16 МГц. Меньшие значения быстрее, но вызовут некоторую степень искажения пикселей."
+msgstr "Эмулируемая ширина в режиме частоты пикселизации 7.16 МГц. Более низкие значения быстрее, но могут вызывать искажение пикселей."
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr "Хак для подавления звуковых щелчков, вызванных принудительными сбросами каналов."
+msgstr "Хак, подавляющий щелчки, вызванные принудительными сбросами канала."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr "Хак, имитирующий ошибочный кодировщик ADPCM, использовавшийся для ADPCM в некоторых играх."
+msgstr "Хак, эмулирующий ошибки ADPCM-кодировщика, используемого для ADPCM в некоторых играх."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr "Более высокие значения соответствуют лучшему отношению сигнал/шум и лучшему сохранению высоких частот («яркости») за счёт увеличения вычислительной сложности и незначительного роста задержки."
+msgstr "Более высокие значения улучшают соотношение сигнал-шум и передачу высоких частот (\"яркости\"), но повышают сложность вычислений и незначительно увеличивают задержку."
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr "Включить билинейную интерполяцию на канале цветности вывода RAINBOW YUV. Может вызвать графические сбои в некоторых играх."
+msgstr "Включает билинейную интерполяцию для канала цветности на выходе RAINBOW YUV. В некоторых играх может вызывать графические баги."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr "Снять аппаратное ограничение в 16 спрайтов на строку развёртки. ВНИМАНИЕ: может вызвать графические сбои в некоторых играх."
+msgstr "Снимает аппаратное ограничение в 16 спрайтов на линии развёртки. ВНИМАНИЕ: в некоторых играх может вызывать графические баги."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr "Первая отрисовываемая строка развёртки. Более высокие значения обрежут верх изображения."
+msgstr "Начальная отображаемая строка развёртки. Более высокие значения обрезают верхнюю часть изображения."
 
 msgctxt "#30019"
 msgid "4 (Default)"
@@ -103,7 +103,7 @@ msgstr "4 (по умолчанию)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr "Последняя отрисовываемая строка развёртки. Меньшие значения обрежут низ изображения."
+msgstr "Последняя отображаемая строка развёртки. Более высокие значения обрезают нижнюю часть изображения."
 
 msgctxt "#30021"
 msgid "235 (Default)"
@@ -111,7 +111,7 @@ msgstr "235 (по умолчанию)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr "Настройка чувствительности типа устройства «Мышь PCFX». Более высокие значения заставят курсор мыши двигаться быстрее."
+msgstr "Настройка чувствительности устройства типа 'PCFX Mouse'. Более высокие значения повышают скорость перемещения курсора мыши."
 
 msgctxt "#30023"
 msgid "0"

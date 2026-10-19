@@ -27,91 +27,91 @@ msgstr "Beetle PC-FX je port emulátoru herní konzole NEC PC-FX z Mednafenu."
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Mezipaměť bitových kopií CD (vyžaduje restart)"
+msgstr "Vyrovnávací Paměť Obrazu CD (Nutný Restart)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr "Šířka při vysokém dotclocku (vyžaduje restart)"
+msgstr "Vysoká Šířka Taktu (Nutný Restart)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr "Potlačit lupnutí při resetu kanálů (vyžaduje restart)"
+msgstr "Potlačení Kliknutí pro Resetování Kanálu (Nutný Restart)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr "Emulovat chybný kodek (vyžaduje restart)"
+msgstr "Emulovat Chybný Kodek (Nutný Restart)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr "Kvalita zvuku (vyžaduje restart)"
+msgstr "Kvalita Zvuku (Nutný Restart)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr "Bilineární interpolace chrominančního kanálu  (vyžaduje restart)"
+msgstr "Bilineární Interpolace Chromatického Kanálu (Nutný Restart)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr "Bez limitu spritů (vyžaduje restart)"
+msgstr "Žádný Limit Spritu (Nutný Restart)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr "Počáteční skenovací řádek"
+msgstr "Počáteční Skenovací Linie"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr "Poslední skenovací řádek"
+msgstr "Poslední Skenovací Linie"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr "Citlivost myši"
+msgstr "Citlivost Myší"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr "Při spuštění načíst celý obraz do paměti. Může zkrátit dobu načítání za cenu delšího spuštění."
+msgstr "Načíst kompletní obraz do paměti při spuštění. Může potenciálně zkrátit dobu načítání za cenu prodloužení doby spouštění."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr "Emulovaná šířka pro režim dotclocku 7,16 MHz. Nižší hodnoty jsou rychlejší, ale způsobí určitou míru zkreslení pixelů."
+msgstr "Emulovaná šířka pro režim bodových hodin 7,16 MHz. Nižší hodnoty jsou rychlejší, ale způsobují určitý stupeň zkreslení pixelů."
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr "Úprava potlačující zvuková lupnutí způsobená vynucenými resety kanálů."
+msgstr "Hack pro potlačení cvakání zvuku způsobeného vynuceným resetováním kanálu."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr "Úprava emulující chybný kodér ADPCM používaný u ADPCM některých her."
+msgstr "Hack, který emuluje chybný kodér ADPCM používaný pro ADPCM v některých hrách."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr "Vyšší hodnoty odpovídají lepšímu poměru signálu k šumu a lepšímu zachování vyšších frekvencí („jasu“), za cenu vyšší výpočetní složitosti a zanedbatelného zvýšení latence."
+msgstr "Vyšší hodnoty odpovídají lepšímu odstupu signálu od šumu a lepšímu zachování vyšších frekvencí (\"jasu\") za cenu zvýšené výpočetní náročnosti a zanedbatelného zvýšení latence."
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr "Povolit bilineární interpolaci chrominančního kanálu výstupu RAINBOW YUV. U některých her může způsobit grafické chyby."
+msgstr "Povolení bilineární interpolace v chromatickém kanálu výstupu RAINBOW YUV. V některých hrách může způsobovat grafické závady."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr "Odstranit hardwarový limit 16 spritů na skenovací řádek. VAROVÁNÍ: V některých hrách může způsobit grafické chyby."
+msgstr "Odstranění hardwarového limitu 16 bodů na řádek. UPOZORNĚNÍ: V některých hrách může způsobovat grafické závady."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr "První vykreslovaný skenovací řádek. Vyšší hodnoty oříznou horní část obrazu."
+msgstr "První vykreslená skenovací linie. Vyšší hodnoty oříznou horní část obrázku."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr "4 (výchozí)"
+msgstr "4 (Výchozí)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr "Poslední vykreslovaný skenovací řádek. Nižší hodnoty oříznou dolní část obrazu."
+msgstr "Poslední vykreslená skenovací linie. Nižší hodnoty oříznou spodní část obrázku."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr "235 (výchozí)"
+msgstr "235 (Výchozí)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr "Nastavit citlivost typu zařízení „PCFX Mouse“. Vyšší hodnoty zrychlí pohyb kurzoru myši."
+msgstr "Konfigurace citlivosti typu zařízení 'PCFX Myš'. Při vyšších hodnotách se kurzor myši bude pohybovat rychleji."
 
 msgctxt "#30023"
 msgid "0"

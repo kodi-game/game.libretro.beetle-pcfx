@@ -27,91 +27,91 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Gyorsítótár a CD képfájlhoz (újraindítás szükséges)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr ""
+msgstr "Nagy szélességű pixelórajel (újraindítás szükséges)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr ""
+msgstr "A csatorna reset kattanások elnyomása (újraindítás szükséges)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr ""
+msgstr "Hibás codec emulálása (újraindítás szükséges)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr ""
+msgstr "Hangminőség (újraindítás szükséges)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr ""
+msgstr "Színcsatorna kettős lineáris interpolációja (újraindítás szükséges)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr ""
+msgstr "Nincs sprite limit (újraindítás szükséges)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Kezdő scanline"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Utolsó scanline"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Egér érzékenysége"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Indításkor beolvassa a teljes képfájlt a memóriába. Csökkentheti a töltési időket a lassabb indulásért cserébe."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr ""
+msgstr "A 7.16 MHz-es pixelórajel mód emulált szélessége. Az alacsonyabb értékek gyorsabbak, de némi pixeltorzulást eredményeznek."
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "A kényszerített csatornaújraindítások által kiváltott hallható kattanások elnyomása."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr ""
+msgstr "Hibás ADPCM kódoló emulálása, amelyet néhány játék használ."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr ""
+msgstr "A nagyobb értékek jobb jel-zaj arányt és a magas frekvenciák (\"fényesség\") jobb megőrzését jelentik, nagyobb számításigény és a késleltetés elhanyagolható növekedése árán."
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr ""
+msgstr "A RAINBOW YUV kimenet színcsatornájának kettős lináris interpolációja. Néhány játéknál grafikai hibákat okozhat."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Megszünteti a hardver soronként legfeljebb 16 sprite-os korlátozását. Figyelem: grafikus hibákat okozhat néhány játéknál."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Az első megjelenített scanline. Nagyobb értékek többet vágnak a kép tetejéből."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (alapértelmezett)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Az utolsó megjelenített scanline. Nagyobb értékek többet vágnak a kép aljából."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (alapértelmezett)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "A \"PCFX Egér\" eszköztípus érzékenysége. Nagyobb értékek esetén az egérkurzor gyorsabban mozog."
 
 msgctxt "#30023"
 msgid "0"

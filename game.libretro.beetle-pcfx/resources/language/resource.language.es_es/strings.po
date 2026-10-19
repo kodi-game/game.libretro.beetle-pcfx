@@ -27,91 +27,91 @@ msgstr "Beetle PC-FX es una adaptación del emulador del sistema de videojuegos 
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Caché Imagen CD (Reinicio Requerido)"
+msgstr "Cachear imagen de CD (es necesario reiniciar)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr "Máximo Ancho Dotclock (Reinicio Requerido)"
+msgstr "Ancho al acelerar la frecuencia de vídeo (es necesario reiniciar)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr "Suprimir Clics Reinicio Canal (Reinicio Requerido)"
+msgstr "Suprimir chasquidos al reiniciar los canales (es necesario reiniciar)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr "Emulación Códec Defectuoso (Reinicio Requerido)"
+msgstr "Emular códec defectuoso (es necesario reiniciar)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr "Calidad de Sonido (Reinicio Requerido)"
+msgstr "Calidad del sonido (es necesario reiniciar)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr "Interpolación Bilineal Canal Chroma  (Reinicio Requerido)"
+msgstr "Interpolación bilineal de los canales de croma (es necesario reiniciar)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr "Sin Límite de Sprites (Reinicio Requerido)"
+msgstr "Desactivar límite de sprites (es necesario reiniciar)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr "Primera Línea de Exploración"
+msgstr "Línea de barrido inicial"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr "Línea de Exploración Final"
+msgstr "Línea de barrido final"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr "Sensibilidad del Ratón"
+msgstr "Sensibilidad del ratón"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Carga la imagen de CD entera en la memoria al arrancar. Podría reducir los tiempos de carga a costa de aumentar el tiempo de arranque."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr ""
+msgstr "Indica el ancho emulado para el modo de frecuencia de vídeo a 7,16 MHz. Un valor inferior es más rápido, pero producirá cierta distorsión en los píxeles."
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "Un arreglo que elimina los chasquidos de audio provocados al reiniciar canales forzosamente."
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr ""
+msgstr "Un arreglo que emula un codificador de ADPCM defectuoso que utilizan algunos juegos."
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr ""
+msgstr "Un valor alto producirá una mejor relación señal/ruido y preservará mejor las frecuencias agudas («más claridad») a costa de provocar una mayor complejidad computacional y aumentar muy levemente la latencia."
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr ""
+msgstr "Activa la interpolación bilineal en el canal de croma de la salida de vídeo YUV RAINBOW. Puede provocar defectos gráficos en algunos juegos."
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Elimina el límite de 16 sprites por línea de barrido que tenía el hardware original. ADVERTENCIA: puede provocar fallos gráficos en algunos juegos."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Indica la primera línea de barrido que se renderizará. Un valor muy alto recortará la parte superior de la imagen."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (por defecto)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Indica la última línea de barrido que se renderizará. Un valor muy bajo recortará la parte inferior de la imagen."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (por defecto)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Configura la sensibilidad del dispositivo «PCFX Mouse». Un valor elevado hará que el cursor del ratón se mueva más rápido."
 
 msgctxt "#30023"
 msgid "0"

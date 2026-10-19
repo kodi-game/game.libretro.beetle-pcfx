@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "CD-levykuvan välimuisti (Uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
@@ -43,7 +43,7 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr ""
+msgstr "Äänen laatu (uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
@@ -55,19 +55,19 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Ensimmäinen juova"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Viimeinen juova"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Hiiren herkkyys"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Lataa koko levykuva muistiin käynnistyksen yhteydessä. Voi mahdollisesti lyhentää latausaikoja kasvavan käynnistysajan kustannuksella."
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
@@ -91,23 +91,23 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Poista laitteiston 16-spriten-per-juova raja. VAROITUS: Saattaa aiheuttaa grafiikkaa virheitä joissakin peleissä."
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Ensimmäinen renderöity juova. Suuremmat arvot rajaavat kuvan yläreunan."
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (Oletus)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Viimeinen renderöity juova. pienemmät arvot rajaavat kuvan alareunan."
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (Oletus)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."

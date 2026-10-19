@@ -27,91 +27,95 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "映像檔快取 (需要重新啟動)"
 
 msgctxt "#30002"
 msgid "High Dotclock Width (Restart Required)"
-msgstr ""
+msgstr "高像素時脈寬度 (需要重新啟動)"
 
 msgctxt "#30003"
 msgid "Suppress Channel Reset Clicks (Restart Required)"
-msgstr ""
+msgstr "抑制聲道重置雜音 (需要重新啟動)"
 
 msgctxt "#30004"
 msgid "Emulate Buggy Codec (Restart Required)"
-msgstr ""
+msgstr "模擬錯誤編碼 (需要重新啟動)"
 
 msgctxt "#30005"
 msgid "Sound Quality (Restart Required)"
-msgstr ""
+msgstr "音質 (需要重新啟動)"
 
 msgctxt "#30006"
 msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
-msgstr ""
+msgstr "濃度通道雙線性插值 (需要重新啟動)"
 
 msgctxt "#30007"
 msgid "No Sprite Limit (Restart Required)"
-msgstr ""
+msgstr "沒有物件限制 (需要重新啟動)"
 
 msgctxt "#30008"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "初始掃描線"
 
 msgctxt "#30009"
 msgid "Last Scanline"
-msgstr ""
+msgstr "最後掃描線"
 
 msgctxt "#30010"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "滑鼠靈敏度"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "將光碟映像檔完整載入到記憶體, 增加啟動時間並減少讀取的時間。"
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
-msgstr ""
+msgstr "7.16 MHz像素時脈模式的模擬寬度, 設定值越低執行速度越快, 但會導致一定程度的像素失真。"
 
 msgctxt "#30013"
 msgid "Hack to suppress audio clicks caused by forced channel resets."
-msgstr ""
+msgstr "模擬破解用於抑制由強制聲道重置引起的音訊雜音。"
 
 msgctxt "#30014"
 msgid "Hack that emulates a buggy ADPCM encoder used for some games' ADPCM."
-msgstr ""
+msgstr "模擬破解用於執行部分遊戲的ADPCM錯誤編碼。"
 
 msgctxt "#30015"
 msgid "Higher values correspond to a better signal-to-noise ratio and better preservation of higher frequencies ('brightness'), at the cost of increased computational complexity and a negligible increase in latency."
-msgstr ""
+msgstr "較高的值可提供更好的訊噪比, 並保持較高頻率(亮度), 但增加計算資源且可能導致延遲(可忽略不計)。"
 
 msgctxt "#30016"
 msgid "Enable bilinear interpolation on the chroma channel of RAINBOW YUV output. May cause graphical glitches with some games."
-msgstr ""
+msgstr "色彩編碼輸出的濃度通道上使用雙線性插值, 可能導致某些遊戲出現圖形故障。"
 
 msgctxt "#30017"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
 msgstr ""
+"移除每條掃描線16個物件的硬體限制。\n"
+"警告: 可能導致某些遊戲出現圖形故障。"
 
 msgctxt "#30018"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "設定最初渲染的掃描線, 過高的值將裁剪影像頂部。"
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (預設)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "設定最後渲染的掃描線, 過低的值將裁剪影像底部。"
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (預設)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
 msgstr ""
+"設定裝置類型為<PCFX Mouse>的靈敏度, 數值越高游標移動速度越快。\n"
+"快捷選單「控制器/連接埠#控制器」選項中, 可變更「裝置類型」的設定。"
 
 msgctxt "#30023"
 msgid "0"

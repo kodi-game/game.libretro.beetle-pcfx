@@ -67,7 +67,7 @@ msgstr "鼠标灵敏度"
 
 msgctxt "#30011"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "在启动时将完整的镜像加载到内存中，以增加启动时间为代价，或许能减少游戏中的加载时间。"
 
 msgctxt "#30012"
 msgid "Emulated width for 7.16 MHz dot-clock mode. Lower values are faster, but will cause some degree of pixel distortion."
@@ -99,7 +99,7 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "4 (Default)"
-msgstr ""
+msgstr "4 (默认)"
 
 msgctxt "#30020"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "235 (Default)"
-msgstr ""
+msgstr "235 (默认)"
 
 msgctxt "#30022"
 msgid "Configure the sensitivity of the 'PCFX Mouse' device type. Higher values will make the mouse cursor move faster."
@@ -402,37 +402,37 @@ msgstr ""
 #~ msgstr "设置"
 
 #~ msgctxt "#30001"
-#~ msgid "CD Image Cache (Restart)"
-#~ msgstr "CD 映像缓存（重新启动）"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "启用CD光盘缓存（重启以生效）"
 
 #~ msgctxt "#30002"
-#~ msgid "High Dotclock Width (Restart)"
+#~ msgid "High Dotclock Width (Restart Required)"
 #~ msgstr "高点时钟宽度（重新启动）"
 
 #~ msgctxt "#30003"
-#~ msgid "Suppress Channel Reset Clicks (Restart)"
+#~ msgid "Suppress Channel Reset Clicks (Restart Required)"
 #~ msgstr "抑制通道重置点击（重新启动）"
 
 #~ msgctxt "#30004"
-#~ msgid "Emulate Buggy Codec (Restart)"
+#~ msgid "Emulate Buggy Codec (Restart Required)"
 #~ msgstr "模拟错误编解码器（重新启动）"
 
 #~ msgctxt "#30005"
-#~ msgid "Sound Quality (Restart)"
+#~ msgid "Sound Quality (Restart Required)"
 #~ msgstr "音质（重新启动）"
 
 #~ msgctxt "#30006"
-#~ msgid "Chroma channel bilinear interpolation  (Restart)"
+#~ msgid "Chroma Channel Bilinear Interpolation  (Restart Required)"
 #~ msgstr "色度通道双线性插值（重新启动）"
 
 #~ msgctxt "#30007"
-#~ msgid "No Sprite Limit (Restart)"
+#~ msgid "No Sprite Limit (Restart Required)"
 #~ msgstr "无 Sprite 限制（重新启动）"
 
 #~ msgctxt "#30008"
-#~ msgid "Initial scanline"
+#~ msgid "Initial Scanline"
 #~ msgstr "初始扫描线"
 
 #~ msgctxt "#30009"
-#~ msgid "Last scanline"
+#~ msgid "Last Scanline"
 #~ msgstr "最末扫描线"
